@@ -1,0 +1,1 @@
+web: node i__sapper__/build

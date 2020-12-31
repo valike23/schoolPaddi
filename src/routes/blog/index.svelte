@@ -15,7 +15,7 @@
 </style>
 
 <svelte:head>
-	<title>Blog</title>
+	<title>scholarPaddi: Breaking News</title>
 </svelte:head>
 
 <div class="inner-banner">
