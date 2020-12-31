@@ -1,1 +1,1 @@
-web: node i__sapper__/build
+web: node i__sapper__/build/index
